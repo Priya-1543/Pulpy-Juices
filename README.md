@@ -23,3 +23,9 @@ This is the **Feedback Page**. It collects the feedback from customers, map it o
 ![Web capture_26-7-2023_194843_127 0 0 1](https://github.com/Priya-1543/Pulpy-Juices/assets/97608679/5fa35ccb-efee-4064-8b77-7a1fd228fcef)
 
 This is the **Analysis page**. It displays the analysis based on the feedback received from customers, and also provide some insightful graphs based on the sales and profit data sotred in the database beforehand. 
+
+`
+
+<img width="1000" alt="Screenshot 2023-07-26 194738" src="https://github.com/Priya-1543/Pulpy-Juices/assets/97608679/cbd06cf3-2cc5-4ac5-895a-d566e483413c">
+
+This page will be displayed after the user had clicked on **Logout** option. 
