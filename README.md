@@ -29,3 +29,9 @@ This is the **Analysis page**. It displays the analysis based on the feedback re
 <img width="1000" alt="Screenshot 2023-07-26 194738" src="https://github.com/Priya-1543/Pulpy-Juices/assets/97608679/cbd06cf3-2cc5-4ac5-895a-d566e483413c">
 
 This page will be displayed after the user had clicked on **Logout** option. 
+
+`
+
+Contributors - 
+ - [Kushpurohit23](https://github.com/Kushpurohit23)
+ - [neha13rana](https://github.com/neha13rana)
