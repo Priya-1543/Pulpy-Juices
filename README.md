@@ -1,5 +1,5 @@
 # Pulpy-Juices
-Pulpy-Juices is a web application developed with the **Django framework**. Its primary purpose is twofold: to **gather feedback** from real customers about the various products, and to present the juice company manager with an **analysis of the feedback** received from all clients. The analysis is displayed in various graphs to aid comprehension. 
+Pulpy-Juices is a web application developed with the **Django framework**. Its primary purpose is twofold: to **gather feedback** from real customers about the various products, and to present the juice company manager with an **analysis of the feedback** received from all customers. The analysis is displayed in various graphs to aid comprehension. 
 
 `
 
